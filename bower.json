@@ -1,0 +1,13 @@
+{
+  "name": "prototype",
+  "description": "Web prototyping template.",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "latest"
+  },
+  "devDependencies": {
+    "three.js": "threejs#*",
+    "pressure": "^1.0.1",
+    "gsap": "^1.19.0"
+  }
+}

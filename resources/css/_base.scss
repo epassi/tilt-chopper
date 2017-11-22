@@ -1,0 +1,26 @@
+/*
+ * Base styles.
+ */
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font-family: Helvetica, sans-serif;
+	font-weight: lighter;
+	font-size: 1.6rem;
+}
+
+th {
+	font-weight: bold;
+	text-align: left;
+}
+
+button {
+	border: none;
+	outline: none;
+	background: none;
+	padding: 0;
+	cursor: pointer;
+}

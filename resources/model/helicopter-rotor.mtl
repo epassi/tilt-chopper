@@ -1,0 +1,10 @@
+newmtl rotor-blade-single-001_blk
+Kd 0.588 0.588 0.588
+map_Kd resources/model/rotor-blade-single-001_blk.png
+illum 2
+
+newmtl hh65_dauphin_USCG_orange
+Kd 0.588 0.588 0.588
+map_Kd resources/model/hh65_dauphin_USCG_orange.png
+illum 2
+

@@ -1,0 +1,10 @@
+newmtl hh65_dauphin_USCG_orange
+Kd 0.588 0.588 0.588
+map_Kd resources/model/hh65_dauphin_USCG_orange.png
+illum 2
+
+newmtl a10_gear_map
+Kd 0.588 0.588 0.588
+map_Kd resources/model/a10_gear_map.png
+illum 2
+
