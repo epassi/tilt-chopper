@@ -11,4 +11,6 @@ Run `grunt` to build the project. Deployable build is in /builds/dev/.
 
 [Live Demo](https://emiliopassi.com/lab/tilt-chopper/)
 
-![Demo](README/demo.gif)
+![Tilt](README/tilt.gif)
+![Swivel](README/swivel.gif)
+![Hover](README/hover.gif)
